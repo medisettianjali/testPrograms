@@ -5,4 +5,4 @@ print(percentage)
 if percentage>75:
     print("Student is allowed for exam")
 else:
-    print("Student is not allowed for exam")
+    print("Student is not allow for exam")
